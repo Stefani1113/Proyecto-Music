@@ -1,0 +1,129 @@
+body{
+    font-family: "Open Sans", sans-serif;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-image: url(../assets/images/angel.jpg);
+    background-position: center;
+    background-size: 1710px;
+    background-repeat: no-repeat;
+    background-position: 80% 0%;
+    height: 120vh;
+    width: 100%;
+}
+.primero{
+    text-align: center;
+    color: white;
+    font-weight: 450;
+    font-size: 185px;
+    padding-top: 307px;
+    padding-right: 70px;
+}
+.contenedor1{
+    display: flex;
+    flex-direction: row;
+}
+.texto h2{
+    font-size: 65px;
+}
+.texto{
+    padding: 260px 50px 0 210px;
+    color: rgb(54, 54, 54);
+}
+.texto p{
+    width: 580px;
+    font-size: 19px;
+    margin-top: 20px;
+    line-height: 30px;
+}
+.degradado{
+    background: linear-gradient(45deg, #f04c4c 20%, #d10664f9 30%); 
+    background-clip: text; 
+    color: transparent; 
+}
+.boton{
+    background-color:  #fe5858;
+    padding: 20px 40px 20px 40px;
+    border-radius: 50px;
+    color: white;
+    margin-top: 30px;
+    width: 130px;
+    text-align: center;
+    margin-left: -25px;
+}
+.imagen img{
+    width: 520px;
+    margin-top: 186px;
+}
+.contenedor2{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.imagen1 img{
+    width: 520px;
+    margin-top: 150px;
+}
+.texto1 h2{
+    font-size: 65px;
+}
+.texto1{
+    padding: 230px 70px 0 130px;
+    color: rgb(54, 54, 54);
+}
+.texto1 p{
+    width: 580px;
+    font-size: 19px;
+    margin-top: 20px;
+    line-height: 30px;
+}
+.degradado1{
+    background: linear-gradient(45deg, #f04c4c 20%, #d10664f9 30%); 
+    background-clip: text; 
+    color: transparent; 
+}
+.boton{
+    background-color:  #fe5858;
+    padding: 16px 40px 16px 40px;
+    border-radius: 50px;
+    color: white;
+    margin-top: 30px;
+    width: 130px;
+    font-size: 18px;
+    text-align: center;
+    margin-left: -25px;
+}
+.contenedor3{
+    background-image: url(../assets/images/raptis.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 85vh;
+    width: 100%;
+    margin-top: 80px;
+}
+.contenedor3 h2{
+    font-size: 65px;
+    color: white;
+    padding: 150px 0 0 830px;
+}
+.contenedor3 p{
+    width: 580px;
+    font-size: 19px;
+    line-height: 30px;
+    color: white;
+    padding: 20px 0 0 830px;
+}
+.boton1{
+    background-color: #fe5858;
+    padding: 16px 40px 16px 40px;
+    border-radius: 50px;
+    color: white;
+    margin-top: 30px;
+    width: 130px;
+    font-size: 18px;
+    text-align: center;
+    margin: 30px 0 0 810px;
+}
