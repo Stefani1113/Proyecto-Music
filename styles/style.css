@@ -45,7 +45,7 @@ header{
     color: transparent; 
 }
 .boton{
-    background-color:  #fe5858;
+    background-color:  rgb(252, 76, 92);
     padding: 20px 40px 20px 40px;
     border-radius: 50px;
     color: white;
@@ -85,7 +85,7 @@ header{
     color: transparent; 
 }
 .boton{
-    background-color:  #fe5858;
+    background-color:  rgb(252, 76, 92);
     padding: 16px 40px 16px 40px;
     border-radius: 50px;
     color: white;
@@ -117,7 +117,7 @@ header{
     padding: 20px 0 0 830px;
 }
 .boton1{
-    background-color: #fe5858;
+    background-color: rgb(252, 76, 92);
     padding: 16px 40px 16px 40px;
     border-radius: 50px;
     color: white;
@@ -127,3 +127,30 @@ header{
     text-align: center;
     margin: 30px 0 0 810px;
 }
+footer{
+    background-color: rgb(252, 76, 92);
+    color: white;
+    font-size: 12px
+}
+section{
+    display: flex;
+    flex-direction: row;
+    padding: 75px 0 25px 260px;
+    gap: 155px;
+}
+hr{
+    margin: 0 220px 0 260px;
+    background-color: #f98484;
+    height: 0.1px;
+    border: none;
+}
+.section{
+    margin-top: -40px;
+    padding-bottom: 40px;
+    font-size: 10px;
+}
+.correo{
+    margin-left: 540px;
+}
+
+
